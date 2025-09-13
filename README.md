@@ -3,6 +3,8 @@
 This repository contains my current resume for IT support and cybersecurity roles.  
 It includes both DOCX and PDF formats for recruiter convenience.
 
+My resume is available below in both viewable and downloadable formats. It outlines my qualifications in IT support and cybersecurity, including certifications, technical skills, and portfolio projects.
+
 - [Resume (View Online)](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fsuavesigley%2FResume_Joshua_Sigley%2Frefs%2Fheads%2Fmain%2Fresume_jsigley.docx&wdOrigin=BROWSELINK)  
 - [Resume (Download DOCX)](https://github.com/suavesigley/Resume_Joshua_Sigley/raw/main/resume_jsigley.docx)
 
